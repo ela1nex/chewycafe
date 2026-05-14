@@ -18,3 +18,12 @@
     align-items: center;
     transform: translateX(-50%);
 }
+
+canvas {
+    top: 60vh;
+    width: 100vw;
+    display: block;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
